@@ -102,5 +102,7 @@ graph TD;
 
 - https://medium.com/shecodeafrica/a-guide-to-technical-writing-7efcd0e70166
   - an article on writing good technical documentation
+- https://docs.google.com/presentation/d/14pFo4zP9LvEP5-bG9i-iwCVK0kyMZwrl5VuuxEwtHJI/edit?usp=sharing
+  - slidedeck presentation of "Fast-track your Docs with GitHub Templates" Build Along Workshop
 
 
