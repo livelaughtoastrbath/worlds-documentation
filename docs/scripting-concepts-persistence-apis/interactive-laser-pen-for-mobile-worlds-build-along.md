@@ -1,3 +1,7 @@
+---
+title: Interactive laser pen for mobile worlds, build-along
+category: scripting-concepts-persistence-apis
+---
 # Interactive laser pen for mobile worlds: build-along
 *Learn how to build a versatile, interactive laser pen that allows players to draw and point on any surface in your world.* Mentor Shards632 leads this in-depth Build-Along, showing you how to script a tool that works for both VR and mobile players. Discover the power of the FocusedInteraction API to turn any surface into a touch-screen canvas.
 
@@ -7,8 +11,8 @@
 
 This session provides a deep dive into the Focused Interaction and PlayerControls APIs.
 
-➡️ *FocusedInteraction Class:* https://developers.meta.com/horizon-worlds/reference/2.0.0/core_focusedinteraction
+➡️ *[FocusedInteraction Class](https://developers.meta.com/horizon-worlds/reference/2.0.0/core_focusedinteraction)* 
 
-➡️ *PlayerControls Class:* https://developers.meta.com/horizon-worlds/reference/2.0.0/core_playercontrols
+➡️ *[PlayerControls Class](https://developers.meta.com/horizon-worlds/reference/2.0.0/core_playercontrols)* 
 
-➡️ *The Meta Horizon Worlds Creator Manual:* https://github.com/MHCPCreators/horizonCreatorManual
+➡️ *[The Meta Horizon Worlds Creator Manual](https://github.com/MHCPCreators/horizonCreatorManual)* 
